@@ -1,0 +1,6 @@
+{
+  "listenPort": "10023",
+  "destination": "localhost",
+  "destinationPort": "10023",
+  "verbose":  "true"
+}
